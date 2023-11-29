@@ -1,0 +1,44 @@
+<header>
+  <h1>Lugares turísticos da Europa</h1>
+  <p>A Europa é um continente rico em história, cultura e beleza natural. É o lar de algumas das cidades mais famosas do mundo, bem como de paisagens deslumbrantes.</p>
+</header>
+
+<main>
+  <section class="lugares-turisticos">
+    <h2>Os principais lugares turísticos da Europa</h2>
+    <ul>
+      <li>
+        <a href="#">Coliseu, Roma, Itália</a>
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Colosseum_Rome_Italy.jpg/1200px-Colosseum_Rome_Italy.jpg" alt="Coliseu, Roma, Itália">
+        <p>O Coliseu é um anfiteatro oval localizado no centro da cidade de Roma, na Itália. É um dos monumentos mais emblemáticos da Roma Antiga e um dos destinos turísticos mais populares do mundo.</p>
+      </li>
+      <li>
+        <a href="#">Torre Eiffel, Paris, França</a>
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Tour_Eiffel_from_Champs-Élysées.jpg/1200px-Tour_Eiffel_from_Champs-Élysées.jpg" alt="Torre Eiffel, Paris, França">
+        <p>A Torre Eiffel é uma torre de ferro forjado localizada no Champ de Mars, em Paris, França. É o monumento pago mais visitado do mundo e um dos símbolos mais emblemáticos da França.</p>
+      </li>
+      <li>
+        <a href="#">Museu do Louvre, Paris, França</a>
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Louvre_pyramid_at_night.jpg/1200px-Louvre_pyramid_at_night.jpg" alt="Museu do Louvre, Paris, França">
+        <p>O Museu do Louvre é um museu de arte localizado no centro de Paris, França. É o maior museu de arte do mundo e abriga uma coleção de mais de 380.000 objetos, incluindo a Mona Lisa, a Vênus de Milo e a Esfinge de Gizé.</p>
+      </li>
+      <li>
+        <a href="#">Palácio de Buckingham, Londres, Reino Unido</a>
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Buckingham_Palace_from_the_air.jpg/1200px-Buckingham_Palace_from_the_air.jpg" alt="Palácio de Buckingham, Londres, Reino Unido">
+        <p>O Palácio de Buckingham é a residência oficial da família real britânica, localizada na cidade de Londres, Reino Unido. É um dos edifícios mais famosos do mundo e é aberto ao público para visitas guiadas.</p>
+      </li>
+      <li>
+        <a href="#">Basílica de São Pedro, Roma, Itália</a>
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Basilica_di_San_Pietro_in_Vaticano.jpg/1200px-Basilica_di_San_Pietro_in_Vaticano.jpg" alt="Basílica de São Pedro, Roma, Itália">
+        <p>A Basílica de São Pedro é uma basílica papal localizada na cidade de Roma, Itália. É a maior igreja do mundo e uma das mais importantes do cristianismo.</p>
+      </li>
+    </ul>
+  </section>
+
+  <section class="lugares-turisticos-outros">
+    <h2>Outros lugares turísticos da Europa</h2>
+    <ul>
+      <li>
+        <a href="#">Cidade do Vaticano, Roma, Itália</a>
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Vatican_City_from_above.jpg/1200px-Vatican_City_from_above.jpg" alt="Cidade do Vaticano, Roma, Itália">
+        <p>A Cidade do Vaticano é um país independente localizado dentro da cidade de Roma, Itália. É a sede
