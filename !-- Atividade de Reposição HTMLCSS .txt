@@ -1,0 +1,64 @@
+<!-- Atividade de Reposição HTML/CSS -->
+
+<!DOCTYPE html>
+<html lang="pt-BR">
+
+<head>
+  <title>Exemplo de HTML</title>
+  <meta charset="utf-8">
+  <meta name="description" content="Este é um exemplo de página HTML.">
+  <meta name="keywords" content="html, exemplo, tag">
+
+</head>
+
+<body>
+  <header>
+    <h1>Exemplo de cabeçalho</h1>
+    <img src="imagem.jpg" alt="Logotipo">
+    <ul>
+      <li><a href="#">Página inicial</a></li>
+      <li><a href="#">Sobre nós</a></li>
+      <li><a href="#">Contato</a></li>
+    </ul>
+  </header>
+
+  <p>Este é um exemplo de parágrafo.</p>
+  <p><b>Este texto está em negrito.</b></p>
+  <p><i>Este texto está em itálico.</i></p>
+
+  <figure>
+    <img src="imagem.jpg" alt="Imagem de exemplo">
+    <figcaption>Esta é uma legenda para a imagem.</figcaption>
+  </figure>
+
+  <form action="processar.php" method="post">
+    <input type="text" name="nome" placeholder="Nome">
+    <input type="email" name="email" placeholder="E-mail">
+    <input type="submit" value="Enviar">
+  </form>
+
+</body>
+
+</html>
+
+<!-->
+Comentários explicativos
+
+Metadados
+A tag <title> define o título da página HTML. É exibido na guia do navegador e nos resultados de pesquisa.
+A tag <meta> fornece informações sobre a página HTML, como o idioma, a descrição e as palavras-chave.
+Separação de conteúdo
+A tag <header> é usada para definir o cabeçalho da página HTML.
+A tag <footer> é usada para definir o rodapé da página HTML.
+Texto
+A tag <p> define um parágrafo.
+As tags <b> e <i> são usadas para enfatizar o texto.
+Imagem
+A tag <img> é usada para inserir uma imagem na página HTML.
+As tags <figure> e <figcaption> podem ser usadas para agrupar uma imagem com uma legenda.
+Formulário
+A tag <form> é usada para criar um formulário.
+A tag <input> é usada para criar um campo de entrada no formulário.
+A tag <label> é usada para fornecer uma legenda para um campo de entrada.
+
+<!-->
