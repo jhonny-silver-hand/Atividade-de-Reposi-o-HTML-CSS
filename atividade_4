@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+  <meta charset="UTF-8">
+  <title>Restaurantes de Bauru</title>
+</head>
+<body>
+  <header>
+    <h1>Restaurantes de Bauru</h1>
+  </header>
+  <main>
+    <p>
+      Bauru é uma cidade com uma rica gastronomia, que oferece opções para todos os gostos.
+    </p>
+    <p>
+      A seguir, você confere uma lista de alguns dos melhores restaurantes da cidade:
+    </p>
+    <ul>
+      <li>
+        <a href="restaurante1.html">Restaurante 1</a>
+        <img src="imagens/restaurante1.jpg" alt="Restaurante 1">
+      </li>
+      <li>
+        <a href="restaurante2.html">Restaurante 2</a>
+        <img src="imagens/restaurante2.html" alt="Restaurante 2">
+      </li>
+      <li>
+        <a href="restaurante3.html">Restaurante 3</a>
+        <img src="imagens/restaurante3.html" alt="Restaurante 3">
+      </li>
+    </ul>
+    <p>
+      Para saber mais sobre cada restaurante, basta clicar no link correspondente.
+    </p>
+  </main>
+  <footer>
+    <p>Copyright © 2023</p>
+  </footer>
+</body>
+</html>
