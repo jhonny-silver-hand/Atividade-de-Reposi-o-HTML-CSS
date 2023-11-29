@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+  <meta charset="UTF-8">
+  <title>Parque das Nações Indígenas</title>
+</head>
+<body>
+  <header>
+    <h1>Parque das Nações Indígenas</h1>
+    <img src="imagens/parque-das-nacoes-indigenas.jpg" alt="Parque das Nações Indígenas">
+  </header>
+  <main>
+    <p>
+      O Parque das Nações Indígenas é um dos principais pontos turísticos de Bauru. Localizado no bairro Jardim Panorama, o parque é uma área de lazer e preservação ambiental.
+    </p>
+    <p>
+      O parque conta com uma área de 100 hectares, onde estão distribuídos diversos atrativos, como:
+    </p>
+    <ul>
+      <li>Lago artificial</li>
+      <li>Trilhas para caminhada</li>
+      <li>Área de recreação infantil</li>
+      <li>Centro de educação ambiental</li>
+    </ul>
+    <p>
+      O parque é um ótimo lugar para relaxar, praticar atividades físicas ou simplesmente aproveitar a natureza.
+    </p>
+  </main>
+  <footer>
+    <p>Copyright © 2023</p>
+  </footer>
+</body>
+</html>
